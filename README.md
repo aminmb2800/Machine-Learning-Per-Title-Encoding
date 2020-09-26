@@ -45,5 +45,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## Dependency
 
-The code is base on our Data_set so you just need to modify code a bit.
+The code is base on my Data_set so you just need to modify code a bit.
     
