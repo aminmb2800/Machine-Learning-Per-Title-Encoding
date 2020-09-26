@@ -34,10 +34,11 @@ pip install scipy
 pip install matplotlib
 ```
 
-## Result
+## Results
 
-We have found out that among these methods the Random Forest method was giving the most optimal results regarding the MSE and RMSE values. 
-on the other hand the results obtained from the linear regression method were relatively not optimal.
+I have found out that among these methods the Random Forest method was giving the most optimal results regarding the MSE and RMSE values. 
+on the other hand the results obtained from the linear regression method 
+re relatively not optimal.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
